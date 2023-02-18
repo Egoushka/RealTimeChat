@@ -2,9 +2,7 @@
 
 # Instruction
 
-cd RealTimeChat
-
-cd ClientApp
+cd RealTimeChat/ClientApp
 
 npm install
 
