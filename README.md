@@ -1,6 +1,6 @@
 # RealTimeChat
 
-#Instruction
+# Instruction
 
 cd RealTimeChat
 cd ClientApp
